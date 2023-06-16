@@ -1,8 +1,16 @@
-### Olá, Sou o David Queiroz 🖐
+### Olá, sou o David Queiroz 🖐
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidhenrique_queiroz)
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender coisas novas. Atualmente, estou focado no desenvolvimento web e adoro trabalhar com HTML, CSS e JavaScript. Também tenho experiência com TypeScript, Node.js e Python.
 
-![David GitHub stats](https://github-readme-stats.vercel.app/api?username=dhqdev&show_icons=true&theme=dracula)
+**Me encontre em:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidhenrique_queiroz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henrique-queiroz-77a663229/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhqdev)
+
+---
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dhqdev&show_icons=true&theme=dracula)
+
+---
+
+#### Linguagens e Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -11,7 +19,10 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</div><br/>
+</div>
 
-![Snake animation](https://github.com/blob/output/github-contribution-grid-snake.svg)
+---
+
+![Snake animation](https://github.com/dhqdev/dhqdev/blob/output/github-contribution-grid-snake.svg)
+
 
