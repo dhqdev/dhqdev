@@ -25,6 +25,5 @@ Experiências com TypeScript, Node.js e Python.
 
 ---
 
-![Snake animation](https://github.com/dhqdev/dhqdev/blob/output/github-contribution-grid-snake.svg)
 
 
