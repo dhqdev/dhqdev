@@ -2,7 +2,8 @@
 
 Sou um desenvolvedor apaixonado por tecnologia. 
 Atualmente, focado no desenvolvimento web e adoro trabalhar com HTML, CSS e JavaScript. 
-Experiências com TypeScript, Node.js e Python.
+Experiências com TypeScript, Node.js e Python. 
+Adoro também VM´s e cloud computing, além de conhecer um pouco sobre cibersecury por curso realizado na USP em SP. 
 
 **Me encontre em:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidhenrique_queiroz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henrique-queiroz-77a663229/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhqdev)
 
