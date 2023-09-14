@@ -1,4 +1,4 @@
-### Olá, sou o David Queiroz 🖐
+### Olá, sou o David Queiroz Viotti Fernandes 🖐
 
 Sou um desenvolvedor apaixonado por tecnologia. 
 Atualmente, focado no desenvolvimento web e adoro trabalhar com HTML, CSS e JavaScript. 
