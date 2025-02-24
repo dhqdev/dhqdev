@@ -1,4 +1,4 @@
-### Olá, sou o David Queiroz Viotti Fernandes 💕
+### Olá, sou o David Queiroz Viotti Fernandes 😊
 
 Sou um desenvolvedor apaixonado por tecnologia. 
 Atualmente, focado no desenvolvimento web e adoro trabalhar com HTML, CSS e JavaScript. 
@@ -28,7 +28,3 @@ Adoro também VM´s e cloud computing, além de conhecer um pouco sobre cibersec
 </div>
 
 ---
-
-### 🐍 Snake Animation
-
-![Snake animation](https://github.com/dhqdev/dhqdev/blob/output/github-contribution-grid-snake.svg)
