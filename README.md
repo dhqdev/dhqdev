@@ -1,11 +1,14 @@
-### Olá, sou o David Queiroz Viotti Fernandes 🖐
+### Olá, sou o David Queiroz Viotti Fernandes 💕
 
 Sou um desenvolvedor apaixonado por tecnologia. 
 Atualmente, focado no desenvolvimento web e adoro trabalhar com HTML, CSS e JavaScript. 
 Experiências com TypeScript, Node.js e Python. 
 Adoro também VM´s e cloud computing, além de conhecer um pouco sobre cibersecury por curso realizado na USP em SP. 
 
-**Me encontre em:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_hqvf/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henrique-queiroz-viotti-fernandes-77a663229/)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhqdev)
+**Me encontre em:**  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/david_hqvf/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-henrique-queiroz-viotti-fernandes-77a663229/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhqdev)
 
 ---
 
@@ -26,5 +29,6 @@ Adoro também VM´s e cloud computing, além de conhecer um pouco sobre cibersec
 
 ---
 
+### 🐍 Snake Animation
 
-
+![Snake animation](https://github.com/dhqdev/dhqdev/blob/output/github-contribution-grid-snake.svg)
