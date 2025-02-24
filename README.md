@@ -8,8 +8,8 @@
 
 <!-- GitHub Stats -->
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhqdev&count_private=true&show_icons=true&hide_rank=false&include_all_commits=true&theme=midnight-purple" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhqdev&layout=compact&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhqdev&count_private=true&show_icons=true&hide_rank=false&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhqdev&layout=compact&theme=radical" />
 </div>
 
 <!-- Snake Animation -->
@@ -37,8 +37,8 @@
   <div style="display: inline_block">
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Frappe" src="https://img.shields.io/badge/Frappe-2D8CFF?style=for-the-badge&logo=frappe&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white" />
+    <img alt="Frappe" src="https://img.shields.io/badge/Frappe-FF0000?style=for-the-badge&logo=frappe&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white" />
   </div>
 </section>
 
