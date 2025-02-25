@@ -3,7 +3,7 @@
 <ul>
   <li>❤️ Desenvolvedor Web</li>
   <li>➕ Experiência com Python, JavaScript, HTML, CSS e Agular</li>
-  <li>📚 Estudando Frappe Framework e ERPs</li>
+  <li>📚 Estudante de frameworks Angular e Frappe.</li>
 </ul>
 
 <!-- GitHub Stats -->
