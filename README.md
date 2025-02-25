@@ -1,9 +1,9 @@
 ### Oi, eu sou David Queiroz Viotti Fernandes 👋😁
 
 <ul>
-  <li>🧑‍💻 Desenvolvedor Web FullStack</li>
-  <li>💚 Experiência com Python, JavaScript, TypeScript e Node.js</li>
-  <li>📚 Estudando Frappe Framework e desenvolvimento de ERPs</li>
+  <li>❤️ Desenvolvedor Web</li>
+  <li>➕ Experiência com Python, JavaScript, HTML, CSS e Agular</li>
+  <li>📚 Estudando Frappe Framework e ERPs</li>
 </ul>
 
 <!-- GitHub Stats -->
