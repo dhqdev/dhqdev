@@ -53,10 +53,3 @@
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   </div>
 </section>
-
-<!-- Contato -->
-<section>
-  <h2>Contato:</h2>
-    <a href="https://www.linkedin.com/in/david-henrique-queiroz-viotti-fernandes-77a663229/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  </div>
-</section>
