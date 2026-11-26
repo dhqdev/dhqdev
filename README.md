@@ -1,55 +1,37 @@
-### Oi, eu sou David Queiroz Viotti Fernandes 👋😁
+<!-- 🕹️ Perfil arcade — os SVGs são gerados por scripts/generate.mjs (veja o final da página) -->
+<div align="center">
 
-<ul>
-  <li>❤️ Desenvolvedor Web</li>
-  <li>➕ Experiência com Python, JavaScript, HTML, CSS e Agular</li>
-  <li>📚 Estudante de frameworks Angular e Frappe.</li>
-</ul>
+<img src="./assets/banner.svg" width="100%" alt="David Fernandes — Desenvolvedor Full Stack"/>
 
-<!-- GitHub Stats -->
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhqdev&count_private=true&show_icons=true&hide_rank=false&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhqdev&layout=compact&theme=radical" />
+<a href="https://planejai.tekvosoft.com"><img src="https://img.shields.io/badge/planejai.tekvosoft.com-0d0221?style=for-the-badge&logo=googlechrome&logoColor=ff2a6d" alt="Site"/></a>
+<a href="https://github.com/dhqdev?tab=followers"><img src="https://img.shields.io/github/followers/dhqdev?style=for-the-badge&logo=github&logoColor=05d9e8&label=seguidores&labelColor=0d0221&color=150734" alt="Seguidores"/></a>
+<img src="https://komarev.com/ghpvc/?username=dhqdev&label=visitas&color=ff2a6d&style=for-the-badge" alt="Visitas"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/dhqdev/dhqdev/output/neofetch.svg" width="100%" alt="Terminal neofetch com informações do David"/>
+
+<img src="https://raw.githubusercontent.com/dhqdev/dhqdev/output/stats.svg" width="100%" alt="Placar de commits: contribuições, commits e streaks"/>
+
+<img src="https://raw.githubusercontent.com/dhqdev/dhqdev/output/lab.svg" width="100%" alt="Linguagens mais usadas e ritmo semanal de contribuições"/>
+
+<img src="https://raw.githubusercontent.com/dhqdev/dhqdev/output/invaders.svg" width="100%" alt="Space Invaders destruindo o gráfico de contribuições"/>
+
+<img src="./assets/stack.svg" width="100%" alt="Stack: HTML5, CSS3, JavaScript, TypeScript, Python, Angular, React, Node.js, Frappe, Docker, Git, GitHub, Notion, Trello"/>
+
+<img src="./assets/footer.svg" width="100%" alt="Valeu pela visita!"/>
+
 </div>
 
-<!-- ![Snake animation](https://github.com/enzogennarii/enzogennarii/blob/main/github-contribution-grid-snake.svg) -->
+<details>
+<summary>🕹️ <b>Como esse perfil funciona?</b></summary>
+<br/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzogennarii/enzogennarii/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzogennarii/enzogennarii/output/github-contribution-grid-snake.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/enzogennarii/enzogennarii/output/github-contribution-grid-snake.svg">
-</picture>
+Tudo aqui é SVG animado feito à mão, sem serviços externos: uma fonte pixel própria, sprites de Space Invaders e CSS/SMIL.
 
-<!-- Linguagens -->
-<section>
-  <h2>Linguagens:</h2>
-  <div style="display: inline_block">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </div>
-</section>
+- `scripts/generate.mjs` busca seus dados na API GraphQL do GitHub e desenha os cards (terminal, placar, linguagens e o Space Invaders).
+- A Action [`profile.yml`](.github/workflows/profile.yml) roda a cada 6 horas e publica os SVGs na branch `output`.
+- Banner, stack e rodapé ficam em `assets/`. Para mudar textos, edite `scripts/profile.config.mjs` e rode `node scripts/generate.mjs --static`.
+- Quer testar o visual sem token? `node scripts/generate.mjs --mock`.
 
-<!-- Tecnologias -->
-<section>
-  <h2>Tecnologias de Desenvolvimento e Frameworks:</h2>
-  <div style="display: inline_block">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Frappe" src="https://img.shields.io/badge/Frappe-FF0000?style=for-the-badge&logo=frappe&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white" />
-  </div>
-</section>
-
-<!-- Ferramentas -->
-<section>
-  <h2>Ferramentas:</h2>
-  <div style="display: inline_block">
-    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  </div>
-</section>
+</details>

@@ -1,0 +1,48 @@
+name: 🕹️ Atualizar perfil arcade
+
+on:
+  schedule:
+    - cron: "23 */6 * * *" # a cada 6 horas
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-arcade
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Gerar SVGs com os dados do GitHub
+        run: node scripts/generate.mjs --out dist
+        env:
+          # Opcional: crie o secret PROFILE_TOKEN (PAT com read:user + repo) para incluir repos privados
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
+          GH_USER: ${{ github.repository_owner }}
+
+      - name: Publicar na branch output
+        env:
+          TOKEN: ${{ github.token }}
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "🕹️ atualiza SVGs ($(date -u +'%Y-%m-%d %H:%M') UTC)"
+          git push -q -f "https://x-access-token:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
