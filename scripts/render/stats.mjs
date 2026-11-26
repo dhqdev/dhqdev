@@ -106,10 +106,14 @@ export function stats(d) {
   const [pxk, pyk] = pts[pk];
   const ptxt = `PICO: ${fmt(maxV)}`;
   const pw = ptxt.length * 6 * 1.6;
-  const lblx = Math.min(Rr - pw, Math.max(L, pxk - pw / 2));
+  // rótulo do pico: ao lado do ponto (lado com mais espaço), sem cobrir a linha
+  const right = pxk + 12 + pw < Rr;
+  const lblx = right ? pxk + 12 : pxk - 12 - pw;
+  const lbly = Math.max(Y0 - CH - 10, pyk - 6);
   b += `<g class="fade"><line x1="${r2(pxk)}" x2="${r2(pxk)}" y1="${r2(pyk)}" y2="${Y0}" stroke="${C.yellow}" stroke-dasharray="2 3" opacity=".6"/>
     <circle cx="${r2(pxk)}" cy="${r2(pyk)}" r="4" fill="${C.yellow}" filter="url(#dotglow)"/>
-    ${px(ptxt, lblx, Math.max(Y0 - CH - 12, pyk - 22), { s: 1.6, fill: C.yellow })}</g>`;
+    <rect x="${r2(lblx - 5)}" y="${r2(lbly - 4)}" width="${r2(pw + 10)}" height="19" rx="4" fill="${C.bg}" opacity=".85"/>
+    ${px(ptxt, lblx, lbly, { s: 1.6, fill: C.yellow })}</g>`;
   // ponto correndo pela linha
   b += `<g class="fade"><circle r="4.5" fill="#fff" filter="url(#dotglow)"><animateMotion dur="8s" repeatCount="indefinite" path="${dl}"/></circle></g>`;
   // meses
